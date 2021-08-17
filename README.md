@@ -14,3 +14,5 @@ Carlos Henrique Vasconcelos.
 Plínio Villas Boas: GitHub: https://github.com/pliniovb 
 
 .Exe em Release
+
+![image](https://user-images.githubusercontent.com/71855263/129815667-d6b8a4c0-34bb-4a42-9143-1fa317677cf4.png)
